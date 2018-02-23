@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.geekidea.hystrixSample.hystrixSample.HystrixSampleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.673 sec - in com.geekidea.hystrixSample.hystrixSample.HystrixSampleApplicationTests

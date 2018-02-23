@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: hystrixSample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dhaneswar
+Implementation-Vendor-Id: com.geekidea.hystrixSample
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/hystrixSampl
+ e/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
